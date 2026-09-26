@@ -1,0 +1,13 @@
+﻿.git/
+**/.git/
+.vscode/
+.idea/
+.vs/
+**/.vs/
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+*.bak
+*~
+*.log
